@@ -1,0 +1,12 @@
+{
+  "name": "brackets",
+  "version": "1.0.0",
+  "description": "Given a set of brackets ()() are we balanced?",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Drage",
+  "license": "ISC"
+}
