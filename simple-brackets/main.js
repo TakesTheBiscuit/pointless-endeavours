@@ -3,11 +3,6 @@ import { dataImbalanced } from "./examples/dataImbalanced.js";
 
 console.info("\x1b[34m%s\x1b[0m", "() Hello SIMPLE brackets ()");
 
-/*
-
-    Don't forget nodejs async/await gotchas
-
-*/
 async function simpleBracketsBalancedHandler(inputString) {
   // split the string into chars
   const charArray = inputString.split("");
