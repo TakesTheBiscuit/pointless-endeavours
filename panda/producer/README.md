@@ -15,5 +15,7 @@
     Produced to partition 0 at offset 0 with timestamp 1695807993057.
     ```
 - Press Ctrl+C to finish producing messages to the topic.
+- You can use the infinite loop script: `./produce.sh` 
+    - Which will write a message to the `chat-room` topic and then sleep 1 second
 
 
